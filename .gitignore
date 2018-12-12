@@ -23,3 +23,21 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+# IDE Files #
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+dist
+build
+bin
+#Config firebase
+*zeroapp-bb183-9c576ec39170.json
+src/main/resources/zeroapp-bb183-9c576ec39170.json

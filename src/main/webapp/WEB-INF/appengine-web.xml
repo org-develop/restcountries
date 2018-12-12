@@ -1,0 +1,8 @@
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+    <!-- <application>noormohamed47</application> <version>1.0</version> -->
+    <threadsafe>true</threadsafe>
+    <!-- <service>starter-rest</service> -->
+    <runtime>java8</runtime>
+    <!-- <env-variables> <env-var name="DEFAULT_ENCODING" value="UTF-8" />
+        <env-var name="SPRING_PROFILES_ACTIVE" value="gcp" /> </env-variables> -->
+</appengine-web-app>
